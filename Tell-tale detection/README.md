@@ -1,5 +1,7 @@
 # Tell-Tale Detector
 
+## Brief
+
 This repository consists of a machine learning model trained with YOLOv8n. The dataset contains over a 1000 images which are furtherr divided into train, valid and test set.
 
 <img src="https://github.com/user-attachments/assets/c85a3351-6889-491a-9fa2-b735e8e9ab25" height="450">
@@ -14,4 +16,6 @@ After uploading the image for detection the trained model detects the available 
 <img src="https://github.com/user-attachments/assets/c4cac60f-270f-44cf-b72c-a74c514bcfea" height="450">
 
 ---
+
+## Analytics
 
