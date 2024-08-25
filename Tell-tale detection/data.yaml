@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 13
+names: ['ABS', 'Airbag', 'BatteryWarning', 'CriticalWarning', 'EngineWarning', 'HandBrakeWarning', 'LowFuel', 'OilPressureLow', 'PowerSteeringWarning', 'SeatBeltWarning', 'TemperatureWarning', 'TractionControl', 'TyrePressureLow']
+
+roboflow:
+  workspace: mahalakshmi-vm-gs3ym
+  project: updatedpoc
+  version: 11
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/mahalakshmi-vm-gs3ym/updatedpoc/dataset/11
