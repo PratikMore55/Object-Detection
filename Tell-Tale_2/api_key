@@ -1,0 +1,8 @@
+!pip install roboflow
+
+from roboflow import Roboflow
+rf = Roboflow(api_key="l45Z2hRWR0M5RyhworH5")
+project = rf.workspace("pm-sxjpn").project("tell-tale-detection-2")
+version = project.version(2)
+dataset = version.download("yolov8")
+                
