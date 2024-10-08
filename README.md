@@ -10,3 +10,7 @@ https://www.canva.com/design/DAGR3m-GZe4/cId-x0bZ7UKceR19YOKE3Q/edit?utm_content
 https://www.pcbway.com/project/shareproject/ESP32_IoT_Starter_Shield_e66a92ab.html
 
 https://colab.research.google.com/drive/1GRIXCboevCveoYfKc3bxvNHQbJVyB2os?ts=66c4e556
+
+
+https://www.researchgate.net/publication/347630687_Implementation_and_Performance_Evaluation_for_DSRC-Based_Vehicular_Communication_System
+https://www.researchgate.net/publication/366739461_DSRC_Technology_for_Intelligent_Transportation_System
