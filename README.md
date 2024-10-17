@@ -14,3 +14,5 @@ https://colab.research.google.com/drive/1GRIXCboevCveoYfKc3bxvNHQbJVyB2os?ts=66c
 
 https://www.researchgate.net/publication/347630687_Implementation_and_Performance_Evaluation_for_DSRC-Based_Vehicular_Communication_System
 https://www.researchgate.net/publication/366739461_DSRC_Technology_for_Intelligent_Transportation_System
+
+https://app.roboflow.com/pm-sxjpn/tell-tale-detection-2/visualize/1?webcam=true
