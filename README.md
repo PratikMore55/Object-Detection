@@ -16,3 +16,7 @@ https://www.researchgate.net/publication/347630687_Implementation_and_Performanc
 https://www.researchgate.net/publication/366739461_DSRC_Technology_for_Intelligent_Transportation_System
 
 https://app.roboflow.com/pm-sxjpn/tell-tale-detection-2/visualize/1?webcam=true
+
+Seat vibrations
+Advanced hand gesture features
+Automatic headlights
