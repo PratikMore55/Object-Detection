@@ -18,5 +18,9 @@ https://www.researchgate.net/publication/366739461_DSRC_Technology_for_Intellige
 https://app.roboflow.com/pm-sxjpn/tell-tale-detection-2/visualize/1?webcam=true
 
 Seat vibrations
+
 Advanced hand gesture features
+
 Automatic headlights
+
+https://www.researchgate.net/figure/Schematic-of-circuit-implemented-in-our-smartwatch_fig5_365405791
