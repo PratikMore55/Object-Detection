@@ -24,3 +24,6 @@ Advanced hand gesture features
 Automatic headlights
 
 https://www.researchgate.net/figure/Schematic-of-circuit-implemented-in-our-smartwatch_fig5_365405791
+
+Facial Expression Detector:
+Real-Time Driver Health Monitor:
