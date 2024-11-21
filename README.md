@@ -23,6 +23,7 @@ Advanced hand gesture features
 
 Automatic headlights
 
+creation of virtual sensor using legacy algorithm
 https://www.researchgate.net/figure/Schematic-of-circuit-implemented-in-our-smartwatch_fig5_365405791
 
 Facial Expression Detector:
