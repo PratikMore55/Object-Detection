@@ -34,6 +34,13 @@ https://www.kaggle.com/datasets/edotfs/dht11-temperature-and-humidity-sensor-1-d
 
 ---
 
+Facial expression Detection
+
+https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset
+
+
+---
+
 https://www.researchgate.net/figure/Schematic-of-circuit-implemented-in-our-smartwatch_fig5_365405791
 
 Facial Expression Detector:
