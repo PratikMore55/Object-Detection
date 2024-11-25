@@ -22,12 +22,16 @@ Seat vibrations
 Advanced hand gesture features
 
 Automatic headlights
+
 ---
 Creation of virtual sensor using legacy algorithm
 
 https://www.researchgate.net/publication/371118340_The_Concept_of_Interactive_Dynamic_Intelligent_Virtual_Sensors_IDIVS_Bridging_the_Gap_between_Sensors_Services_and_Users_through_Machine_Learning
 
 https://www.mdpi.com/1424-8220/23/3/1328
+
+https://www.kaggle.com/datasets/edotfs/dht11-temperature-and-humidity-sensor-1-day?resource=download
+
 ---
 
 https://www.researchgate.net/figure/Schematic-of-circuit-implemented-in-our-smartwatch_fig5_365405791
