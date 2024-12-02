@@ -46,3 +46,7 @@ https://www.researchgate.net/figure/Schematic-of-circuit-implemented-in-our-smar
 Facial Expression Detector:
 
 Real-Time Driver Health Monitor:
+
+
+
+https://careers.micron.com/careers
